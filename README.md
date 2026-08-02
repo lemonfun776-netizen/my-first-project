@@ -75,6 +75,11 @@
     ros2 run nav2_map_server map_saver_cli -f ~/turtlebot3_map
     ```
     生成两个核心文件：`turtlebot3_map.pgm` 和 `turtlebot3_map.yaml`。
+### 建图效果展示
+
+![建图完成截图](map.PNG)
+
+   
 
 ### 四、 启动自主导航 (Navigation2)
 
